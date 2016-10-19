@@ -4,5 +4,5 @@
 int main(void){
 
 	printf("hello\n");
-	return 0;
+	printf("hello2\n");
 }
